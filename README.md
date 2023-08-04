@@ -17,3 +17,7 @@ Solar-powered for sustainability and autonomy.
 Wireless data transmission for remote monitoring.
 Real-time alerts for critical water level thresholds.
 Low power consumption for extended operation.
+
+Code Explanation:-
+Copy and upload the program into ESP-WROOM32 and open the serial monitor. In the serial monitor, you will be able to see some information like whether the WiFi is connected or not. If it is connected you will get the local IP address, here it is 192.168.1.23( This may be different for you). Note down the one that displayed on your serial monitor.
+
